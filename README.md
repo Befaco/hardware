@@ -1,0 +1,2 @@
+# hardware
+Befaco hardware specifications
